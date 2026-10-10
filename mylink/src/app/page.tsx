@@ -3,6 +3,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-indigo-100 via-purple-100 to-pink-100 dark:from-gray-800 dark:via-gray-900 dark:to-black p-4">
       <main className="flex flex-col items-center space-y-8 bg-white dark:bg-gray-900 rounded-xl shadow-lg p-10 max-w-xl w-full text-center">
         <img src="/logo.svg" alt="Profile" className="w-32 h-32 rounded-full border-4 border-indigo-500 mb-4" />
+        <img src="/blank_profile.svg" alt="Blank Avatar" className="w-32 h-32 rounded-full border-2 border-gray-300 mb-4 opacity-50" />
         <h1 className="text-5xl font-extrabold text-gray-900 dark:text-white">
           홍희준
         </h1>
