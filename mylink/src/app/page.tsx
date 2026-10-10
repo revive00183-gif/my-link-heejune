@@ -6,7 +6,8 @@ export default function Home() {
           홍희준
         </h1>
         <p className="text-lg text-gray-600 dark:text-gray-300">
-          안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.
+          안녕하세요! 새로운 기술을 탐구하고 사용자 경험을 개선하는 것을 즐기는 개발자입니다.<br />
+          현재 웹 개발과 AI 기반의 생산성 향상에 관심을 두고 꾸준히 성장하고 있습니다.
         </p>
       </main>
     </div>
